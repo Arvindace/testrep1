@@ -1,7 +1,9 @@
-abc master repo local copy]
+abc master repo local copy] <branch 1>
 
-
+edited on feature 1 branch on srver
 
 this is added by local ser3ver
 
 this is edited by master
+
+branch 1 local edited
